@@ -1,7 +1,7 @@
 # Collatz-Problem-in-Rust
 Boilerplate rust code to prove that the Collatz Problem converges to 4,2,1 repeating cycle at it approaches infinity
 
-Rust cost uses a struct that contains a u128 integer with a maximum value of 340282366920938463463374607431768211455.
+Rust code uses a struct that contains a u128 integer with a maximum value of 340282366920938463463374607431768211455.
 
 The project is contained in a cargo build environment and has helper methods to view the logic in plain English.
 
