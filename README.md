@@ -9,3 +9,6 @@ The code DOES NOT contain methods that perform logic on the sequence, each step 
 
 CONCLUSION:
 On my current hardware using Rust the programming language, The Collatz Problem converges to the 4,2,1 on all values up to 2^127-1.  Nothing further can be proven using this current method until u256 or larger are created.
+
+DISCLAIMER:
+Code is to be using in whatever manner possible, however it comes with no warranty.  Also, the code will have to be updated to accomplish whatever task it is needed for.
