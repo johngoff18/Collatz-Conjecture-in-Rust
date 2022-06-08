@@ -1,5 +1,5 @@
 # Collatz-Problem-in-Rust
-Boilerplate rust code to prove that the Collatz Problem converges to 4,2,1 repeating cycle at it approaches infinity
+Boilerplate rust code to prove that the Collatz Conjecture converges to 4,2,1 repeating cycle at it approaches infinity
 
 Rust code uses a struct that contains a u128 integer with a maximum value of 340282366920938463463374607431768211455.
 
